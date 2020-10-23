@@ -1,6 +1,6 @@
 # UM Hackathon Team EXPEDITION
 
-##About
+## About
 
 We use the python to develop the the data assessing. by using the requests to request the given url with multiple parameters. for example there are multiple pages' dataset. we need to use the 'page' parameter to get all datasets. Then, we put all JSON data the the key (for example: "_id","consumeTime","consumptionLocation","count") to Mongodb. Next, we write another function to process the dataset that are in the Mongodb. such as calculating the total records of each 20 minutes interval. And trying to iudentify which periods of time are the high level of eating. Also, We developed the events bar that shows the event of different types presented at the moments. Remain to be improved.
 
