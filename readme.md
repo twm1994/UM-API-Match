@@ -39,6 +39,6 @@ composer require guzzlehttp/guzzle
 
 ## Authors
 
-* **Wade Tam**
+* **Tan Weiming**
 * **Chen Xiaojiao**
 * **Gao Lu**
